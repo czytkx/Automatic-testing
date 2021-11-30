@@ -1,0 +1,17 @@
+tmp/
+uploads/
+downloads/
+**/model/data/*
+
+
+.idea/
+__pycache__/
+venv/
+.vscode/
+
+log/
+
+tmp.txt
+test.py
+.DS_Store
+
